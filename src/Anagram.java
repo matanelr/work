@@ -26,6 +26,7 @@ public class Anagram {
                 else{
                     count += map.get(sortedSubi);
                     map.put(sortedSubi,map.get(sortedSubi)+1);
+
                 }
             }
         }

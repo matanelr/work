@@ -15,4 +15,6 @@ public class sol {
         }
         scan.close();
     }
+
+
 }
