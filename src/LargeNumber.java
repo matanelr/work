@@ -89,8 +89,4 @@ public class LargeNumber {
     }
 
 
-    public int LBSlength(final String A) {
-
-    }
-
 }
